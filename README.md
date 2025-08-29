@@ -77,14 +77,9 @@ Home slots: ["2025-07-15", "2025-07-16", "2025-07-17"] → Included
 
 Home slots: ["2025-07-15", "2025-07-17"] → Excluded
 
-⚙️ How to Run
+⚙️ How to Get
 1. Clone the repository
-git clone https://github.com/yourusername/BookingApi.git
-cd BookingApi
-
-2. Build and run
-dotnet build
-dotnet run --project BookingApi.Api
+git clone https://github.com/elchinabraham/Booking.Service.git
 
 
 The API will start at:
